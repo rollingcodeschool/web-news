@@ -8,6 +8,7 @@ La API newsAPI solo se puede usar en forma local para probar el proyecto, por lo
 
 1. Clona el repo 
 1. Instala las dependencias `npm install`
+1. Crear una API key desde la web de [newsapi](https://newsapi.org/) y agregarla en el componente 'Formulario' del proyecto
 1. Ejecuta el proyecto `npm start`
 
 
