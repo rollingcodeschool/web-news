@@ -4,7 +4,7 @@ Proyecto para practicar consultas a una api, implementamos la api [newsapi](http
 
 ## Demo ​📱​
 
-[newsapi](https://newsapi.org/)
+[demo web-news](https://rollingcodeschool.github.io/web-news/)
 
 ## Recursos utilizados ​🛠️​
 
