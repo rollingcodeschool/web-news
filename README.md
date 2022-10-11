@@ -2,9 +2,14 @@
 
 Proyecto para practicar consultas a una api, implementamos la api [newsapi](https://newsapi.org/) y validaciones con react-hook-form.
 
-## Demo ​📱​
+## Como probar este proyecto ​📱​
 
-[demo web-news](https://rollingcodeschool.github.io/web-news/)
+La API newsAPI solo se puede usar en forma local para probar el proyecto, por lo que debes realizar los siguientes pasos:
+
+1. Clona el repo 
+1. Instala las dependencias `npm install`
+1. Ejecuta el proyecto `npm start`
+
 
 ## Recursos utilizados ​🛠️​
 
